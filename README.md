@@ -1,4 +1,6 @@
-# Learn React Router Tutorial Series on [nsikakimoh.com](https://nsikakimoh.com).
+# React Router Tutorials
+
+## [Learn React Router Tutorial Series on nsikakimoh.com](https://nsikakimoh.com).
 
 Learn everything about the latest React Router from beginner concepts.
 
